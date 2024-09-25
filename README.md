@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - Emails:
 - Daniel.Anorue@usm.edu - school (preferred)
 - danielanorue@gmail.com - home
-- 
+  
