@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/Technomorph19"><img src="https://api.daily.dev/devcards/ddb0d2d3dce8414e83b2046ec4f60f07.png?r=y58" width="400" alt="Daniel Anorue II's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/Technomorph19"><img src="https://api.daily.dev/devcards/ddb0d2d3dce8414e83b2046ec4f60f07.png?r=y58" width="400" alt="Daniel Anorue II's Dev Card"/></a>-->
 
 - 🌱 I’m currently learning React.js and C++ Data Structures & Algorithms
 - 📫 How to reach me:
