@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://app.daily.dev/Technomorph19"><img src="https://api.daily.dev/devcards/ddb0d2d3dce8414e83b2046ec4f60f07.png?r=y58" width="400" alt="Daniel Anorue II's Dev Card"/></a>-->
 
-- 🌱 I’m currently learning Python, C# & XAML
+- 🌱 I’m currently making InternIN
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/anoruejr
 - Emails:
